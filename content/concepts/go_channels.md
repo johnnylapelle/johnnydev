@@ -1,4 +1,6 @@
-# Go: Channels
+---
+title: Go - Channels
+---
 
 ## What i understand:
 A Channel is a way to avoid data race when calling multiple goroutine.
