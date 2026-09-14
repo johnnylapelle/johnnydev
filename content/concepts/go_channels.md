@@ -1,5 +1,5 @@
 ---
-title: Go - Channels
+title: Channels in GO
 ---
 
 ## What i understand:

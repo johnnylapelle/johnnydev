@@ -1,5 +1,5 @@
 ---
-title: Concepts - Funzzing
+title: Fuzzing
 ---
 
 Note based on [Fuzzing en Go (Valentin Deleplace)](https://www.youtube.com/watch?v=Oyjo0krQz5M)
