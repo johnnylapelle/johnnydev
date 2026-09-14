@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: johhnylapelle.github.io/Blog
+  baseUrl: johhnylapelle.github.io/Johnnydev
   ignorePatterns:
     - private
     - templates
