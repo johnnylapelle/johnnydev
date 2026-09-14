@@ -6,3 +6,5 @@ Fuzzing is a tool that allows developpers to test their code with a huge amount 
 
 In go, this is a builtin tool, such as test or benchmark.
 It test a function and output a report.
+
+testestest
