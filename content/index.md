@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Johnny's Blog - A Learning Journey
 ---
 Blog about my learning journey as a dev
 
