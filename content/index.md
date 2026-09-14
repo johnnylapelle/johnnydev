@@ -1,7 +1,10 @@
 ---
 title: Johnny's Blog - A Learning Journey
 ---
-Blog about my learning journey as a dev
+## About me
+I'm Jean Vacossin, i live in Lyon, France and i'm a student at 42.
+In this blog i'll document my learning journey as a developper.
+From writing about concepts i'm learning to listing useful resources i encounter, I'll try to document almost everything.
 
 ## Resources
 
@@ -20,3 +23,5 @@ Blog about my learning journey as a dev
 
 ### Network
 - [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/)
+
+*Launched on September 14, 2026*

@@ -1,3 +1,5 @@
+*September 14th, 2026*
+
 # Go: Channels
 
 ## What i understand:
