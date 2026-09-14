@@ -24,4 +24,5 @@ From writing about concepts i'm learning to listing useful resources i encounter
 ### Network
 - [Beej's Guide to Network Concepts](https://beej.us/guide/bgnet0/html/split/)
 
+---
 *Launched on September 14, 2026*

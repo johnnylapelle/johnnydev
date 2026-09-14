@@ -1,5 +1,3 @@
-*September 12th, 2026*
-
 # Let's code a Shell in GO
 I'm following the tutorial: [Write a Shell in C by Stephen Brennan](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 
