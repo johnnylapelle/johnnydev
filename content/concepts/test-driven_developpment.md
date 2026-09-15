@@ -1,6 +1,5 @@
 ---
 title: Test-Driven Development
-draft: true
 ---
 
 I learned about TDD with the great [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests) by [Quii](https://github.com/quii)
