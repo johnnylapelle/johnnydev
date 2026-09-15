@@ -2,7 +2,7 @@
 title: Johnny's Blog - A Learning Journey
 ---
 ## About me
-I'm Jean Vacossin, i live in Lyon, France and i'm a student at 42.
+I'm Johnny, i live in France and i'm a student at 42.
 In this blog i'll document my learning journey as a developper.
 From writing about concepts i'm learning to listing useful resources i encounter, I'll try to document almost everything.
 
