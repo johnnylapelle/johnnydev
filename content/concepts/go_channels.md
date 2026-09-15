@@ -25,6 +25,12 @@ func main() {
 }
 ```
 
+```	
+$ go run channel-buffering.go 
+buffered
+channel
+```
+
 *Snippet is from [Go by example](https://gobyexample.com/channel-buffering)*
 
 
